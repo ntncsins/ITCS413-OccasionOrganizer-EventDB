@@ -1,10 +1,6 @@
 # ITCS413-Organizer-EventDB
 Database design project for a fictional concert and event management system, developed for ITCS413-Database Design
 
-# OccasionOrganizer Event Management System
-
-A full-cycle database design project for managing concert and entertainment events. This project was developed for the ITCS413: Database Design course at Mahidol University.
-
 ## Project Overview
 
 **OccasionOrganizer** is a fictional event management company specializing in concerts. This project aims to address key challenges in event logistics, ticketing, artist-sponsor coordination, and system scalability through proper database design and implementation.
