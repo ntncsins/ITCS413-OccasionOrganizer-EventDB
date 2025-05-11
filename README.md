@@ -24,7 +24,7 @@ Database design project for a fictional concert and event management system, dev
 
 ## Dataset
 
-The `/dataset/` folder contains sample data in CSV format for all key tables:
+The `/G15_189_190_210_dataset/` folder contains sample data in CSV format for all key tables:
 
 | Table         | Description                            |
 |---------------|----------------------------------------|
@@ -42,7 +42,7 @@ These datasets can be imported into SQL Server using `BULK INSERT` or database i
 
 ## SQL Scripts
 
-Located in the `/sql/` folder:
+Located in the `/G15_189_190_210_sql/` folder:
 
 - `creation.sql` — Defines tables, primary keys, and constraints  
 - `loading.sql` — Loads the CSV datasets into the database  
