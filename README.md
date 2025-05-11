@@ -6,7 +6,7 @@ Database design project for a fictional concert and event management system, dev
 **OccasionOrganizer** is a fictional event management company specializing in concerts. This project aims to address key challenges in event logistics, ticketing, artist-sponsor coordination, and system scalability through proper database design and implementation.
 
 ## Project Phase Summary
-
+The `/G15_189_190_210_docs/` folder contains all project reports for each development phase:
 - **P1 – Requirement Analysis**  
   Identified major issues such as manual ticketing, scattered data sources, lack of communication tools, and poor scalability.
 
