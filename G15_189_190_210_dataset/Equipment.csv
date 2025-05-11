@@ -1,0 +1,43 @@
+ID,Equipment Name,Equipment Type,Status,Quantity,Cost Planned,Cost Actual
+301,Aluminum stage,Stage,Available,1,1000000,1000000
+302,Stage roof,Stage equipment,Available,1,500000,500000
+303,Safety rail,Stage equipment,Available,4,10000,10000
+304,Stage stairs,Stage equipment,Available,2,5000,5000
+305,Stage lift,Stage equipment,Rented,1,200000,200000
+306,Stage curtain,Stage equipment,Available,1,20000,20000
+307,Backdrop,Stage equipment,Rented,1,100000,100000
+308,Event sign,Stage equipment,Rented,1,50000,50000
+309,LED screen,Stage equipment,Rented,2,500000,500000
+310,Projector,Stage equipment,Rented,2,100000,100000
+311,Translation system,Stage equipment,Rented,1,200000,200000
+312,Line array speakers,Sound system,Rented,12,1200000,1200000
+313,Subwoofer,Sound system,Rented,6,600000,600000
+314,Amplifier,Sound system,Rented,4,400000,400000
+315,Sound mixer,Sound system,Rented,1,200000,200000
+316,Microphone,Sound system,Rented,20,100000,100000
+317,In-ear monitors for musicians,Sound system,Rented,10,50000,50000
+318,In-ear monitor system,Sound system,Rented,1,100000,100000
+319,Translation system,Sound system,Rented,1,200000,200000
+320,Spotlight,Lighting system,Rented,20,200000,200000
+321,Moving head lights,Lighting system,Rented,12,120000,120000
+322,PAR lights,Lighting system,Rented,20,100000,100000
+323,Effect lights,Lighting system,Rented,10,50000,50000
+324,Light controller,Lighting system,Rented,1,50000,50000
+325,Smoke machine,Lighting system,Rented,2,20000,20000
+326,Wind machine,Lighting system,Rented,2,20000,20000
+327,LED screen,Lighting system,Rented,2,500000,500000
+328,Projector,Lighting system,Rented,2,100000,100000
+329,Food and beverage booth,Other,Rented,20,200000,200000
+330,Mobile toilet,Other,Rented,20,100000,100000
+331,Barrier fence,Other,Rented,1,50000,50000
+332,Security personnel,Other,Hired,50,500000,500000
+333,First aid equipment,Other,Available,1,10000,10000
+334,Office equipment,Other,Rented,1,50000,50000
+335,Artist equipment,Other,Rented,1,100000,100000
+336,Press equipment,Other,Rented,1,50000,50000
+337,Cashless system,Other,Rented,1,100000,100000
+338,Online ticket booking system,Other,Rented,1,50000,50000
+339,Event application,Other,Developed,1,500000,500000
+340,Live broadcast system,Other,Rented,1,200000,200000
+341,Security system,Other,Rented,1,100000,100000
+342,Cleaning equipment,Other,Rented,1,50000,50000
